@@ -1,0 +1,252 @@
+-------begin------
+Time:	2016-04-27 19:55:52
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-27 19:59:10
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1001条原始轨迹
+读取数据耗时：0min 13s
+一共生成了1509个停留点，耗时：0min 7s
+一共生成了211个聚类结果,耗时：0min 0s
+一共生成了211个停留区,耗时：0min 2s
+-------begin------
+Time:	2016-04-27 20:00:28
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-27 20:02:10
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-28 11:09:30
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1001条原始轨迹
+读取数据耗时：0min 15s
+一共生成了1498个停留点，耗时：0min 1s
+一共生成了195个聚类结果,耗时：0min 0s
+一共生成了195个停留区,耗时：0min 0s
+用户总数：1001	换名用户数：514.0	换名率：51.35%
+换名总次数：1040.0	换名用户数：514.0	平均换名次数：2.02
+换名耗时：7min33s
+隐私保护耗时：7min 33s
+写结果耗时：0min 8s
+结束，一共耗时：7min 57s
+-------end------
+-------begin------
+Time:	2016-04-28 11:31:54
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1001条原始轨迹
+读取数据耗时：0min 14s
+一共生成了1498个停留点，耗时：0min 1s
+一共生成了195个聚类结果,耗时：0min 0s
+一共生成了195个停留区,耗时：0min 0s
+用户总数：1001	换名用户数：517.0	换名率：51.65%
+换名总次数：1038.0	换名用户数：517.0	平均换名次数：2.01
+换名耗时：8min57s
+隐私保护耗时：8min 57s
+写结果耗时：0min 8s
+结束，一共耗时：9min 20s
+-------end------
+-------begin------
+Time:	2016-04-28 11:56:04
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-28 14:47:00
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-28 14:48:39
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-28 14:48:53
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-28 14:49:55
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-28 15:03:40
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1000条原始轨迹
+读取数据耗时：0min 7s
+一共生成了1493个停留点，耗时：0min 0s
+一共生成了205个聚类结果,耗时：0min 0s
+一共生成了205个停留区,耗时：0min 0s
+用户总数：1000	换名用户数：56.0	换名率：5.60%
+换名总次数：92.0	换名用户数：56.0	平均换名次数：1.64
+换名耗时：0min1s
+隐私保护耗时：0min 1s
+写结果耗时：0min 4s
+结束，一共耗时：0min 14s
+-------end------
+-------begin------
+Time:	2016-04-28 15:07:30
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1000条原始轨迹
+读取数据耗时：0min 6s
+一共生成了1493个停留点，耗时：0min 0s
+一共生成了205个聚类结果,耗时：0min 0s
+一共生成了205个停留区,耗时：0min 1s
+用户总数：1000	换名用户数：56.0	换名率：5.60%
+换名总次数：90.0	换名用户数：56.0	平均换名次数：1.61
+换名耗时：0min2s
+隐私保护耗时：0min 2s
+写结果耗时：0min 4s
+结束，一共耗时：0min 13s
+-------end------
+-------begin------
+Time:	2016-04-28 15:14:18
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-28 15:25:44
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1000条原始轨迹
+读取数据耗时：0min 7s
+一共生成了1474个停留点，耗时：0min 0s
+一共生成了207个聚类结果,耗时：0min 0s
+一共生成了207个停留区,耗时：0min 0s
+用户总数：1000	换名用户数：15.0	换名率：1.50%
+换名总次数：16.0	换名用户数：15.0	平均换名次数：1.07
+换名耗时：0min1s
+隐私保护耗时：0min 1s
+写结果耗时：0min 3s
+结束，一共耗时：0min 12s
+-------end------
+-------begin------
+Time:	2016-04-28 15:29:42
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1000条原始轨迹
+读取数据耗时：0min 6s
+一共生成了1474个停留点，耗时：0min 0s
+一共生成了207个聚类结果,耗时：0min 0s
+一共生成了207个停留区,耗时：0min 1s
+用户总数：1000	换名用户数：15.0	换名率：1.50%
+换名总次数：16.0	换名用户数：15.0	平均换名次数：1.07
+换名耗时：0min2s
+隐私保护耗时：0min 2s
+写结果耗时：0min 3s
+结束，一共耗时：0min 11s
+-------end------
+-------begin------
+Time:	2016-04-28 15:35:20
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-28 15:44:51
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1000条原始轨迹
+读取数据耗时：0min 6s
+一共生成了1474个停留点，耗时：0min 0s
+一共生成了207个聚类结果,耗时：0min 0s
+一共生成了207个停留区,耗时：0min 1s
+用户总数：1000	换名用户数：15.0	换名率：1.50%
+换名总次数：16.0	换名用户数：15.0	平均换名次数：1.07
+换名耗时：0min2s
+隐私保护耗时：0min 2s
+写结果耗时：0min 3s
+结束，一共耗时：0min 12s
+-------end------
+-------begin------
+Time:	2016-04-28 15:46:32
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1000条原始轨迹
+读取数据耗时：0min 6s
+一共生成了1474个停留点，耗时：0min 0s
+一共生成了207个聚类结果,耗时：0min 0s
+一共生成了207个停留区,耗时：0min 1s
+用户总数：1000	换名用户数：15.0	换名率：1.50%
+换名总次数：16.0	换名用户数：15.0	平均换名次数：1.07
+换名耗时：0min2s
+隐私保护耗时：0min 2s
+写结果耗时：0min 3s
+结束，一共耗时：0min 12s
+-------end------
+-------begin------
+Time:	2016-04-28 15:51:42
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+-------begin------
+Time:	2016-04-28 16:01:34
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1000条原始轨迹
+读取数据耗时：0min 6s
+一共生成了1474个停留点，耗时：0min 0s
+一共生成了207个聚类结果,耗时：0min 0s
+一共生成了207个停留区,耗时：0min 2s
+用户总数：1000	换名用户数：15.0	换名率：1.50%
+换名总次数：16.0	换名用户数：15.0	平均换名次数：1.07
+换名耗时：0min3s
+隐私保护耗时：0min 3s
+写结果耗时：0min 4s
+结束，一共耗时：0min 14s
+-------end------
+-------begin------
+Time:	2016-06-02 16:09:40
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1001条原始轨迹
+读取数据耗时：0min 6s
+一共生成了1474个停留点，耗时：0min 0s
+一共生成了207个聚类结果,耗时：0min 0s
+一共生成了207个停留区,耗时：0min 0s
+用户总数：1001	换名用户数：16.0	换名率：1.60%
+换名总次数：18.0	换名用户数：16.0	平均换名次数：1.13
+换名耗时：6min28s
+隐私保护耗时：6min 28s
+写结果耗时：0min 3s
+结束，一共耗时：6min 38s
+-------end------
+-------begin------
+Time:	2016-06-15 09:14:24
+输入目录：	E:\Document\项目\15年华为\hwPrivacy\data\source
+输出目录：	E:\Document\项目\15年华为\hwPrivacy\data\result
+配置文件：	E:\Document\项目\15年华为\hwPrivacy\config\privacy.properties
+生成了1001条原始轨迹
+读取数据耗时：0min 7s
+一共生成了1474个停留点，耗时：0min 0s
+一共生成了207个聚类结果,耗时：0min 0s
+一共生成了207个停留区,耗时：0min 0s
+用户总数：1001	换名用户数：16.0	换名率：1.60%
+换名总次数：18.0	换名用户数：16.0	平均换名次数：1.13
+换名耗时：7min46s
+隐私保护耗时：7min 46s
+写结果耗时：0min 4s
+结束，一共耗时：7min 59s
+-------end------
