@@ -1,1 +1,6 @@
-/build/
+build
+.idea
+.settings
+.classpath
+.project
+*.iml
